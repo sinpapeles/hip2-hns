@@ -1,0 +1,12 @@
+{
+  "name": "hip2-hns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hip2-dane": "0.2.0"
+  },
+  "peerDependencies": {
+    "hsd": "^3.0.1"
+  }
+}
